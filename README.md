@@ -10,5 +10,5 @@ Procedure to Setup Server:
 To run the server:
 python ircd.py
 
-Currently hosted at 35.167.104.132 on port 93933. Use telnet to have fun:
-telnet 35.167.104.132 9399
+Currently hosted at 35.167.104.132 on port 9399. Use telnet to have fun:
+$telnet 35.167.104.132 9399
